@@ -3,7 +3,7 @@
 window.onload = function () {
   const favicon = document.getElementById("favicon");
   let pageTitle = document.title;
-  let attentionMessage = "Come back";
+  let attentionMessage = "Shivam Sahu";
   let blinkEvent = null;
 
   document.addEventListener("visibilitychange", function (e) {
@@ -31,7 +31,7 @@ window.onload = function () {
         favicon.href = "./assets/images/dp_male.svg";
       } else {
         document.title = attentionMessage;
-        favicon.href = "./assets/images/folded.png";
+        favicon.href = "./assets/images/dp_male.svg";
       }
     }, 1000);
   }
