@@ -1,39 +1,70 @@
-# Awesome Portfolio Websites🌐
+# <p align='center'> Hello, myself Shivam Sahu 👋</p>
 
-Are you a researcher, a developer or perhaps an explorer of technology who is looking forward to create an awesome personal brand?
-<p align="center"><img src="https://media.giphy.com/media/dkGhBWE3SyzXW/giphy.gif" width = 40%></p>
+### Glad to see you here!
 
-Well writing blog posts, working on some cool projects/papers/designs are a great way to do so. But there is something that you might be missing out on!
-<p align="center"><img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif"></p>
+I am a CSE undergraduate at IIT Patna who loves programming, speaking, travelling and exploring the wonders of human mind.
 
-So, what else do you need?🤔.
-<p align="center"><img src="https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif" width = 40%></p>
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
-Here is the answer: An awesome personal website of yours that serves a portfolio of your work! 
-<p align="center"><img src="https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif" width = 40%></p>
+<br>
+<br>
+  
+**Talking about Personal Stuffs:**
 
-If you do not have a platform that shows your entire work then you might not be doing justice in potraying your hard work or dope skills. But you must be wondering that making a portfolio website might take time, require some web development knowledge and still you might get something really cool. 
-<p align="center"><img src="https://media.giphy.com/media/521JLj0YGzz6AEWsZ5/giphy.gif" width = 40%></p>
+- 👨🏻‍💻 I’m currently working on web and app development.
+- 🚀 I’m also actively involved in competitive progamming.
+- 💬 Ask me about anything, I am happy to help.
+- 📫 How to reach me: shivam_1901cs55@iitp.ac.in
+- 📝 [Resume](http://bit.ly/ShivamSahuIITP_Resume).
 
-Well! Take a chill pill. Don't be intimidated by those thoughts. __Awesome Portfolio Wesbite__ is here for the rescue!
-<p align="center"><img src="https://media.giphy.com/media/T08JhumnpKAI8/giphy.gif" width = 40%></p>
+<br>
+<br>
+<br>
 
-## A sneek peek into what we have here🙈 :
 
-### Home Page:
-<p align="center"><img src="./readme_assets/Home_Page.gif"></p>
+<h3 align="left">Connect with Me:-</h3>
+<p align="left">
+<a href="https://dev.to/supershivam13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sagnik" height="30" width="40" /></a>
+<a href="https://twitter.com/ShivamS87093943" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mitrasagnik" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivam-sahu-503/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sagnikmitra" height="30" width="40" /></a>
+<a href="https://www.facebook.com/shivam.sahu.33/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sagnik.mitra.562" height="30" width="40" /></a>
+<a href="https://www.instagram.com/superb_shivam13/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="artimkingas" height="30" width="40" /></a>
+<a href="https://medium.com/@xtylishshivam13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sagnikmitra123" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/supershivam13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sagnikmitra" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/supershivam503" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sagnikmitra" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/supershivam503" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sagnikmitra" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@shivam3373" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="sagnikmitra" height="30" width="40" /></a>
+</p>
 
-### Experience Page:
-<p align="center"><img src="./readme_assets/Experience_Page.gif"></p>
+<br>
+<br>
+<br>
 
-### Project Page:
-<p align="center"><img src="./readme_assets/Project_Page.gif"></p>
 
-### Research Page:
-<p align="center"><img src="./readme_assets/Research_Page.gif"></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  
+  
+<!--   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p> -->
 
-### Education Page:
-<p align="center"><img src="./readme_assets/Education_Page.gif"></p>
+
+<br>
+<br>
+<br>
+<a href='https://github.com/supershivam13'>
+  <p align='center'>
+    <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=supershivam13&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true" style="max-width:100%;">
+  </p>
+</a>
+
+
+<a href='https://www.linkedin.com/in/shivam-sahu-503/'>
+  <p align='center'>
+    <img alt="LinkedIn Profile" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" style="max-width:100%;">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=supershivam503&style=flat-square&color=brightgreen" style="max-width:100%;">
+  </p>
+</a>
+
 
 ## How to use this?🛠
 
