@@ -5,64 +5,66 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
+    title: "Python Data Structures",
     cardImage: "assets/images/education-page/coursera1.png",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    moocLink: "https://www.coursera.org/account/accomplishments/certificate/T7HX2RYH8AL3",
   },
   {
-    title: "Cryptography",
+    title: "The Complete Web Developer in 2020: Zero to Mastery",
     cardImage: "assets/images/education-page/udemy.png",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    moocLink: "https://www.udemy.com/certificate/UC-9adb2049-d0f6-4cd4-afed-62424b2c3bee/",
   },
   {
-    title: "Machine Learning",
+    title: "Programming for Everybody (Getting Started with Python)",
     cardImage: "assets/images/education-page/coursera1.png",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    moocLink: "https://coursera.org/share/97ed30110a4a43719e1a0c5745fddb0e",
   },
   {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity_logo.png",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-  },
-  {
-    title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity_logo.png",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-  },
-  {
-    title: "Javascript",
-    cardImage: "assets/images/education-page/udacity_logo.png",
-    moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
-  },
-  {
-    title: "Bootstrap 4",
+    title: "Master the Coding Interview: Data Structures + Algorithms",
     cardImage: "assets/images/education-page/udemy.png",
-    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
+    moocLink: "https://www.udemy.com/certificate/UC-78ed4fd9-70e2-4c77-973d-584515f4506d/",
+  },
+  // Row 1 done
+  {
+    title: "C++ Standard Template Library",
+    cardImage: "assets/images/education-page/cb.png",
+    moocLink: "https://online.codingblocks.com/app/certificates/CBOL-129446-b140",
   },
   {
-    title: "Intro to React",
-    cardImage: "assets/images/education-page/EdX.png",
-    moocLink: "https://www.edx.org/learn/reactjs",
-  },
-  {
-    title: "Intro to React Native",
+    title: "Build your First React Website",
     cardImage: "assets/images/education-page/coursera1.png",
-    moocLink: "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
+    moocLink: "https://www.coursera.org/account/accomplishments/verify/7TBKF98B5FKU",
   },
   {
-    title: "NodeJS, Express and MongoDB",
+    title: "Python Fundamentals",
+    cardImage: "assets/images/education-page/cb.png",
+    moocLink: "https://online.codingblocks.com/certificates/CBOL-126093-9540",
+  },
+  {
+    title: "Modern JavaScript: ES6 Basics",
     cardImage: "assets/images/education-page/coursera1.png",
-    moocLink: "https://www.coursera.org/learn/server-side-nodejs",
+    moocLink: "https://coursera.org/share/6ac1af44c4cc613fc6a460803480b217",
+  },
+  // Row 2 Done
+  {
+    title: "Google Cloud Essentials",
+    cardImage: "assets/images/education-page/qw.png",
+    moocLink: "https://google.qwiklabs.com/public_profiles/dfcab5b0-d45d-4d25-9316-487c32eb6edb",
   },
   {
-    title: "XML-AJAX",
-    cardImage: "assets/images/education-page/udemy.png",
-    moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
+    title: "C++ Fundamentals",
+    cardImage: "assets/images/education-page/cb.png",
+    moocLink: "https://online.codingblocks.com/certificates/CBOL-121470-abea",
   },
   {
-    title: "Data Structures & Algorithms",
-    cardImage: "assets/images/education-page/udacity_logo.png",
-    moocLink: "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
+    title: "Fundamentals of Digital Marketing",
+    cardImage: "assets/images/education-page/gdg.png",
+    moocLink: "https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code",
+  },
+  {
+    title: "Competitive Programming Contest Problems",
+    cardImage: "assets/images/education-page/cb.png",
+    moocLink: "https://online.codingblocks.com/certificates/CBOL-121168-483a",
   },
 ];
 
