@@ -133,7 +133,7 @@ let footer = $(`
     </div>
     <div class="footer-right">
       <h6 class="display-7">Get in Touch</h6>
-      <form style="width:80%; margin-left:7%;">
+      <form action="POST" data-netlify="true" style="width:80%; margin-left:7%;">
         <div class="name">
           <input type="text" name="name" placeholder="Name" id="inputs" required>
         </div>
@@ -142,6 +142,9 @@ let footer = $(`
         </div>
         <div class="msg">
           <textarea type="text" name="msg" placeholder="Message" id="inputs" required></textarea>
+        </div>
+        <div class="field">
+         <div data-netlify-recaptcha="true"></div>
         </div>
         <button class="submit"  type="submit">Send</button>
       </form>
