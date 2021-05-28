@@ -199,15 +199,15 @@ let footer = $(`
        <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
           <div class="form-style-6">
             <h6 class="display">Get in Touch</h6>
-            <form action="POST" data-netlify="true">
+            <form name="contact" action="POST" data-netlify="true">
+            <input  type="hidden" name="form-name" value="contact" />
               <input type="text" name="field1" placeholder="Your Name" />
               <input type="email" name="field2" placeholder="Email Address" />
               <textarea name="field3" placeholder="Type your Message"></textarea>
-              <div class="field">
-              <div data-netlify-recaptcha="true"></div>
-              </div>
               <input type="submit" value="Send" />
+              
             </form>
+            
           </div>
         </div>    
       </div>
